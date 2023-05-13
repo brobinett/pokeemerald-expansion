@@ -1,0 +1,1 @@
+This is our Pokemon ROM Hack. It's about a bear.
